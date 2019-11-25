@@ -703,7 +703,6 @@ p.skill {
   margin: 0 auto;
   text-align: right;
   position: relative;
-  border: 1px solid red;
 }
 
 .team-slide img {
@@ -1182,7 +1181,6 @@ input[value="submit now"] {
   left: 0;
   right: 0;
   background-color: rgba(0, 0, 0, 0.911);
-  border: 1px solid red;
   z-index: 20;
 }
 
